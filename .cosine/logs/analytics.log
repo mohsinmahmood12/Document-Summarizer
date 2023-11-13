@@ -1,0 +1,23 @@
+
+INFO [2023-11-13T16:13:40.086Z]: opened
+INFO [2023-11-13T16:13:40.087Z]: {"agent":"cosine-vscode","version":"1.0.7","package":"@cosine/analytics","token":"1803ee20efed77dfecbf705fb8dc4c18","mp_lib":"node","$lib_version":"0.17.0"}
+INFO [2023-11-13T17:58:51.094Z]: opened
+INFO [2023-11-13T17:58:51.094Z]: {"agent":"cosine-vscode","version":"1.1.0","package":"@cosine/analytics","token":"1803ee20efed77dfecbf705fb8dc4c18","mp_lib":"node","$lib_version":"0.17.0"}
+INFO [2023-11-13T19:58:24.775Z]: Set User: mohsinmahmood675@gmail.com
+INFO [2023-11-13T19:58:24.776Z]: {"Telemetry":true}
+INFO [2023-11-13T19:58:26.721Z]: extension_initialized
+INFO [2023-11-13T19:58:26.722Z]: {"timeToInit":9587,"agent":"cosine-vscode","version":"1.1.0","package":"@cosine/analytics"}
+INFO [2023-11-13T19:58:47.003Z]: project_languages
+INFO [2023-11-13T19:58:47.003Z]: {"languages":["Python"],"agent":"cosine-vscode","version":"1.1.0","package":"@cosine/analytics"}
+INFO [2023-11-13T19:58:53.862Z]: project_initialize_start
+INFO [2023-11-13T19:58:53.862Z]: {"name":"Document-Summarizer","languages":["Python","JavaScript","Powershell","C","Markdown","CPP","Bash","XML","HTML","YAML","CSS","Perl","JSON","Toml","Lua","Assembly","SQL"],"ignored":["*.Python","*.pyc","*.pyd","*.pyo",".cache",".changeset",".cosine",".devcontainer",".expo",".expo-settings",".expo-shared",".git",".gitsecret",".husky",".idea",".nyc_output",".parcel-cache",".pnp",".pnp.js",".storybook",".venv",".versionbot",".vs",".vscode",".yarn",".yarnrc","__pycache__","_generated","build","coverage","dist","logs","out","tests","venv"],"agent":"cosine-vscode","version":"1.1.0","package":"@cosine/analytics"}
+INFO [2023-11-13T20:00:29.884Z]: project_initialize_success
+INFO [2023-11-13T20:00:29.884Z]: {"name":"Document-Summarizer","languages":["Python","JavaScript","Powershell","C","Markdown","CPP","Bash","XML","HTML","YAML","CSS","Perl","JSON","Toml","Lua","Assembly","SQL"],"ignored":["*.Python","*.pyc","*.pyd","*.pyo",".cache",".changeset",".cosine",".devcontainer",".expo",".expo-settings",".expo-shared",".git",".gitsecret",".husky",".idea",".nyc_output",".parcel-cache",".pnp",".pnp.js",".storybook",".venv",".versionbot",".vs",".vscode",".yarn",".yarnrc","__pycache__","_generated","build","coverage","dist","logs","out","tests","venv"],"agent":"cosine-vscode","version":"1.1.0","package":"@cosine/analytics"}
+INFO [2023-11-13T20:01:19.385Z]: question_start
+INFO [2023-11-13T20:01:19.385Z]: {"prompt":"Create a proper readme for my project which will include all details as well as the picture which I will attached","agent":"cosine-vscode","version":"1.1.0","package":"@cosine/analytics"}
+INFO [2023-11-13T20:01:40.040Z]: question_success
+INFO [2023-11-13T20:01:40.040Z]: {"prompt":"Create a proper readme for my project which will include all details as well as the picture which I will attached","agent":"cosine-vscode","version":"1.1.0","package":"@cosine/analytics"}
+INFO [2023-11-13T20:02:32.528Z]: question_start
+INFO [2023-11-13T20:02:32.528Z]: {"prompt":"generate readme according to my project","agent":"cosine-vscode","version":"1.1.0","package":"@cosine/analytics"}
+INFO [2023-11-13T20:02:59.924Z]: question_success
+INFO [2023-11-13T20:02:59.925Z]: {"prompt":"generate readme according to my project","agent":"cosine-vscode","version":"1.1.0","package":"@cosine/analytics"}

@@ -1,0 +1,159 @@
+
+INFO [2023-11-13T16:13:40.082Z]: Tracking open event
+INFO [2023-11-13T16:13:40.087Z]: Creating language service
+INFO [2023-11-13T16:13:40.087Z]: Creating settings service
+INFO [2023-11-13T16:13:40.087Z]: Creating workspace service
+INFO [2023-11-13T16:13:40.088Z]: Creating remote AI
+INFO [2023-11-13T16:13:40.088Z]: Creating feedback service
+INFO [2023-11-13T16:13:40.088Z]: Creating share service
+INFO [2023-11-13T16:13:40.088Z]: Creating workspace controller
+INFO [2023-11-13T16:13:40.088Z]: Enabling workspace listeners
+INFO [2023-11-13T16:13:40.089Z]: Creating source
+INFO [2023-11-13T16:13:40.089Z]: Initializing workspace controller
+INFO [2023-11-13T16:13:40.093Z]: opened
+INFO [2023-11-13T16:13:40.093Z]: {}
+INFO [2023-11-13T17:58:51.086Z]: Tracking open event
+INFO [2023-11-13T17:58:51.095Z]: Creating language service
+INFO [2023-11-13T17:58:51.095Z]: Creating settings service
+INFO [2023-11-13T17:58:51.096Z]: Creating workspace service
+INFO [2023-11-13T17:58:51.097Z]: Creating remote AI
+INFO [2023-11-13T17:58:51.097Z]: Creating feedback service
+INFO [2023-11-13T17:58:51.098Z]: Creating share service
+INFO [2023-11-13T17:58:51.098Z]: Creating workspace controller
+INFO [2023-11-13T17:58:51.098Z]: Enabling workspace listeners
+INFO [2023-11-13T17:58:51.101Z]: Creating source
+INFO [2023-11-13T17:58:51.102Z]: Initializing workspace controller
+INFO [2023-11-13T17:58:51.106Z]: opened
+INFO [2023-11-13T17:58:51.106Z]: {}
+INFO [2023-11-13T19:58:17.129Z]: Preparing to initialize extension
+INFO [2023-11-13T19:58:18.146Z]: Registering flag observer
+INFO [2023-11-13T19:58:18.147Z]: Navigating to loading page
+INFO [2023-11-13T19:58:18.147Z]: Navigation
+INFO [2023-11-13T19:58:18.147Z]: {"page":"/loading"}
+INFO [2023-11-13T19:58:18.148Z]: Initializing workspace controller
+INFO [2023-11-13T19:58:18.148Z]: Navigating to blank page
+INFO [2023-11-13T19:58:18.148Z]: Creating URI handler
+INFO [2023-11-13T19:58:18.148Z]: Getting auth service props
+INFO [2023-11-13T19:58:18.152Z]: Creating auth service
+INFO [2023-11-13T19:58:18.152Z]: Setting network auth service
+INFO [2023-11-13T19:58:18.152Z]: Creating context store
+INFO [2023-11-13T19:58:18.152Z]: Creating engine
+INFO [2023-11-13T19:58:18.152Z]: Creating sql db
+INFO [2023-11-13T19:58:18.571Z]: Creating vector db
+INFO [2023-11-13T19:58:18.572Z]: Creating config manager
+INFO [2023-11-13T19:58:18.574Z]: Get languages
+INFO [2023-11-13T19:58:21.924Z]: Get Overview
+INFO [2023-11-13T19:58:21.924Z]: Creating code parser
+INFO [2023-11-13T19:58:21.924Z]: Creating code index
+INFO [2023-11-13T19:58:21.925Z]: Creating graphs
+INFO [2023-11-13T19:58:21.925Z]: Creating tagger
+INFO [2023-11-13T19:58:21.925Z]: Creating semantic
+INFO [2023-11-13T19:58:21.926Z]: Creating keyword
+INFO [2023-11-13T19:58:21.926Z]: Creating file search
+INFO [2023-11-13T19:58:21.926Z]: Initializing engine
+INFO [2023-11-13T19:58:21.999Z]: [CodeTagger.init] Initializing
+INFO [2023-11-13T19:58:22.003Z]: Initializing history service
+INFO [2023-11-13T19:58:22.004Z]: Creating project bot props
+INFO [2023-11-13T19:58:22.004Z]: Creating plan service
+INFO [2023-11-13T19:58:22.004Z]: Creating terms service
+INFO [2023-11-13T19:58:22.004Z]: Creating auth controller
+INFO [2023-11-13T19:58:22.004Z]: Initializing auth controller
+INFO [2023-11-13T19:58:22.005Z]: Checking auth
+INFO [2023-11-13T19:58:24.752Z]: Set User: clhBnUmauEUVCFkjlZThvDfb0E63
+INFO [2023-11-13T19:58:24.900Z]: Creating plan controller
+INFO [2023-11-13T19:58:24.901Z]: Initializing plan controller
+INFO [2023-11-13T19:58:26.566Z]: Creating status controller
+INFO [2023-11-13T19:58:26.567Z]: Creating chat bot
+INFO [2023-11-13T19:58:26.570Z]: Creating git service
+INFO [2023-11-13T19:58:26.571Z]: Creating user context
+INFO [2023-11-13T19:58:26.571Z]: Creating search controller
+INFO [2023-11-13T19:58:26.572Z]: Initializing search controller
+INFO [2023-11-13T19:58:26.586Z]: Creating index controller
+INFO [2023-11-13T19:58:26.586Z]: Initializing index controller
+INFO [2023-11-13T19:58:26.586Z]: Creating migrate controller
+INFO [2023-11-13T19:58:26.586Z]: Initializing migrate controller
+INFO [2023-11-13T19:58:26.586Z]: Creating settings controller
+INFO [2023-11-13T19:58:26.587Z]: Initializing settings controller
+INFO [2023-11-13T19:58:26.588Z]: Creating navigation controller
+INFO [2023-11-13T19:58:26.588Z]: Initializing navigation controller
+INFO [2023-11-13T19:58:26.588Z]: Registering auth service with auth controller
+INFO [2023-11-13T19:58:26.588Z]: Calculating navigation
+INFO [2023-11-13T19:58:26.714Z]: Navigation
+INFO [2023-11-13T19:58:26.714Z]: {"page":"/initialize/project"}
+INFO [2023-11-13T19:58:26.715Z]: Fully initialized!
+INFO [2023-11-13T19:58:26.723Z]: extension_initialized
+INFO [2023-11-13T19:58:26.723Z]: {"timeToInit":9587}
+INFO [2023-11-13T19:58:47.004Z]: project_languages
+INFO [2023-11-13T19:58:47.005Z]: {"languages":["Python"]}
+INFO [2023-11-13T19:58:47.134Z]: Navigation
+INFO [2023-11-13T19:58:47.134Z]: {"page":"/initialize/ignore"}
+INFO [2023-11-13T19:58:53.232Z]: Navigation
+INFO [2023-11-13T19:58:53.232Z]: {"page":"/initialize/progress"}
+INFO [2023-11-13T19:58:53.858Z]: Found 3 files
+INFO [2023-11-13T19:58:53.863Z]: project_initialize_start
+INFO [2023-11-13T19:58:53.863Z]: {"name":"Document-Summarizer","languages":["Python","JavaScript","Powershell","C","Markdown","CPP","Bash","XML","HTML","YAML","CSS","Perl","JSON","Toml","Lua","Assembly","SQL"],"ignored":["*.Python","*.pyc","*.pyd","*.pyo",".cache",".changeset",".cosine",".devcontainer",".expo",".expo-settings",".expo-shared",".git",".gitsecret",".husky",".idea",".nyc_output",".parcel-cache",".pnp",".pnp.js",".storybook",".venv",".versionbot",".vs",".vscode",".yarn",".yarnrc","__pycache__","_generated","build","coverage","dist","logs","out","tests","venv"]}
+INFO [2023-11-13T19:59:41.030Z]: [Engine.indexCode] Preindexing with graph
+INFO [2023-11-13T19:59:41.031Z]: [SemanticCodeSearch.preIndex] Embedding components
+INFO [2023-11-13T19:59:41.031Z]: {"added":15,"deleted":0}
+INFO [2023-11-13T19:59:41.454Z]: [CodeGraphOrchestrator.preIndex] Preindexing
+INFO [2023-11-13T19:59:41.454Z]: [CodeGraphOrchestrator.preIndex] Linking
+INFO [2023-11-13T19:59:41.454Z]: {"language":"Python"}
+INFO [2023-11-13T19:59:41.934Z]: [CodeGraphOrchestrator.preIndex] Symbolising
+INFO [2023-11-13T19:59:41.935Z]: {"language":"Python","percent":33.33333333333333,"file":"pipeline.py"}
+INFO [2023-11-13T19:59:41.936Z]: [CodeGraphOrchestrator.preIndex] Symbolising
+INFO [2023-11-13T19:59:41.936Z]: {"language":"Python","percent":66.66666666666666,"file":"app.py"}
+INFO [2023-11-13T19:59:41.936Z]: [CodeGraphOrchestrator.preIndex] Symbolising
+INFO [2023-11-13T19:59:41.936Z]: {"language":"Python","percent":100,"file":"preprocess.py"}
+INFO [2023-11-13T19:59:41.937Z]: [CodeGraphOrchestrator.preIndex] Linking
+INFO [2023-11-13T19:59:41.937Z]: {"language":"Python","percent":22.566371681415927,"file":"pipeline.py"}
+INFO [2023-11-13T19:59:42.000Z]: [CodeGraphOrchestrator.preIndex] Linking
+INFO [2023-11-13T19:59:42.000Z]: {"language":"Python","percent":84.070796460177,"file":"app.py"}
+INFO [2023-11-13T19:59:42.047Z]: [CodeGraphOrchestrator.preIndex] Linking
+INFO [2023-11-13T19:59:42.048Z]: {"language":"Python","percent":100,"file":"preprocess.py"}
+INFO [2023-11-13T19:59:42.048Z]: [CodeGraphOrchestrator.preIndex] Linking
+INFO [2023-11-13T19:59:42.048Z]: {"language":"Python","percent":100}
+INFO [2023-11-13T19:59:42.049Z]: [CodeGraphOrchestrator.preIndex] Linking complete
+INFO [2023-11-13T19:59:42.049Z]: {"language":"Python"}
+INFO [2023-11-13T19:59:42.049Z]: [CodeGraphOrchestrator.preIndex] Preindexed
+INFO [2023-11-13T19:59:45.028Z]: [SemanticCodeSearch.preIndex] Embedded components
+INFO [2023-11-13T19:59:45.029Z]: {"length":15}
+INFO [2023-11-13T19:59:45.031Z]: [Engine.indexCode]: Preindexed semantic & graph
+INFO [2023-11-13T19:59:45.032Z]: [Engine.indexCode] Indexing code
+INFO [2023-11-13T19:59:45.033Z]: [KeywordCodeSearch.index] Indexing
+INFO [2023-11-13T19:59:45.053Z]: [KeywordCodeSearch.index] Saving index
+INFO [2023-11-13T19:59:45.055Z]: [CodeGraphOrchestrator.index] Indexing
+INFO [2023-11-13T19:59:45.056Z]: [CodeGraphOrchestrator.index] Indexing Language
+INFO [2023-11-13T19:59:45.056Z]: {"language":"Python"}
+INFO [2023-11-13T19:59:45.090Z]: [KeywordCodeSearch.index] Indexed
+INFO [2023-11-13T19:59:45.093Z]: [CodeGraphOrchestrator.index] Indexed
+INFO [2023-11-13T19:59:45.093Z]: [SemanticCodeSearch.index] Indexing components
+INFO [2023-11-13T19:59:45.093Z]: {"added":15,"deleted":0}
+INFO [2023-11-13T19:59:45.093Z]: [SemanticCodeSearch.index] Deleting components
+INFO [2023-11-13T19:59:45.093Z]: {"embeddingsToDelete":0}
+INFO [2023-11-13T19:59:45.094Z]: [SemanticCodeSearch.index] Writing components
+INFO [2023-11-13T19:59:45.094Z]: {"write":15}
+INFO [2023-11-13T19:59:45.282Z]: [SemanticCodeSearch.index] Indexed components
+INFO [2023-11-13T19:59:45.282Z]: {"resuts":15,"delete":0}
+INFO [2023-11-13T19:59:45.283Z]: [CodeIndex.index] Indexing with MetaDB
+INFO [2023-11-13T19:59:45.283Z]: {"files":{"added":3,"changed":0,"deleted":0}}
+INFO [2023-11-13T19:59:45.376Z]: [CodeIndex.index] Indexed with MetaDB
+INFO [2023-11-13T19:59:45.415Z]: [CodeTagger.index] Starting to index
+INFO [2023-11-13T19:59:45.418Z]: [CodeTagger.getCodebaseThemes] Getting codebase themes
+INFO [2023-11-13T19:59:48.756Z]: Tokens for Overview Summary
+INFO [2023-11-13T19:59:48.756Z]: {"projectName":5,"languages":35,"likelyLibraries":0,"code":0,"nonCode":0,"total":208}
+INFO [2023-11-13T20:00:04.688Z]: [CodeTagger.tagCodebase] Tagging codebase
+INFO [2023-11-13T20:00:08.970Z]: [CodeTagger.save] Saving index to file
+INFO [2023-11-13T20:00:09.494Z]: [Engine.indexCode] Indexed code
+INFO [2023-11-13T20:00:29.857Z]: [KeywordCodeSearch.diffIndex] Computing diff
+INFO [2023-11-13T20:00:29.858Z]: [KeywordCodeSearch.diffIndex] Diff computed
+INFO [2023-11-13T20:00:29.858Z]: {"adding":0,"deleting":0}
+INFO [2023-11-13T20:00:29.885Z]: project_initialize_success
+INFO [2023-11-13T20:00:29.885Z]: {"name":"Document-Summarizer","languages":["Python","JavaScript","Powershell","C","Markdown","CPP","Bash","XML","HTML","YAML","CSS","Perl","JSON","Toml","Lua","Assembly","SQL"],"ignored":["*.Python","*.pyc","*.pyd","*.pyo",".cache",".changeset",".cosine",".devcontainer",".expo",".expo-settings",".expo-shared",".git",".gitsecret",".husky",".idea",".nyc_output",".parcel-cache",".pnp",".pnp.js",".storybook",".venv",".versionbot",".vs",".vscode",".yarn",".yarnrc","__pycache__","_generated","build","coverage","dist","logs","out","tests","venv"]}
+INFO [2023-11-13T20:01:19.389Z]: question_start
+INFO [2023-11-13T20:01:19.389Z]: {"prompt":"Create a proper readme for my project which will include all details as well as the picture which I will attached"}
+INFO [2023-11-13T20:01:40.042Z]: question_success
+INFO [2023-11-13T20:01:40.042Z]: {"prompt":"Create a proper readme for my project which will include all details as well as the picture which I will attached"}
+INFO [2023-11-13T20:02:32.531Z]: question_start
+INFO [2023-11-13T20:02:32.532Z]: {"prompt":"generate readme according to my project"}
+INFO [2023-11-13T20:02:59.926Z]: question_success
+INFO [2023-11-13T20:02:59.926Z]: {"prompt":"generate readme according to my project"}
