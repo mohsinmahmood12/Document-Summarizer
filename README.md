@@ -1,6 +1,6 @@
 # Document-Summarizer
 
-![Project Image](image\Capture.PNG)
+![Project Image](image/Capture.PNG)
 
 ## Description
 
