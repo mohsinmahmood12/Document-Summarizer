@@ -21,3 +21,7 @@ INFO [2023-11-13T20:02:32.528Z]: question_start
 INFO [2023-11-13T20:02:32.528Z]: {"prompt":"generate readme according to my project","agent":"cosine-vscode","version":"1.1.0","package":"@cosine/analytics"}
 INFO [2023-11-13T20:02:59.924Z]: question_success
 INFO [2023-11-13T20:02:59.925Z]: {"prompt":"generate readme according to my project","agent":"cosine-vscode","version":"1.1.0","package":"@cosine/analytics"}
+INFO [2023-11-13T20:15:31.560Z]: question_start
+INFO [2023-11-13T20:15:31.561Z]: {"prompt":"generate .gitignore for my project","agent":"cosine-vscode","version":"1.1.0","package":"@cosine/analytics"}
+INFO [2023-11-13T20:15:46.862Z]: question_success
+INFO [2023-11-13T20:15:46.862Z]: {"prompt":"generate .gitignore for my project","agent":"cosine-vscode","version":"1.1.0","package":"@cosine/analytics"}

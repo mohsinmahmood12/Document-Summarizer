@@ -157,3 +157,7 @@ INFO [2023-11-13T20:02:32.531Z]: question_start
 INFO [2023-11-13T20:02:32.532Z]: {"prompt":"generate readme according to my project"}
 INFO [2023-11-13T20:02:59.926Z]: question_success
 INFO [2023-11-13T20:02:59.926Z]: {"prompt":"generate readme according to my project"}
+INFO [2023-11-13T20:15:31.574Z]: question_start
+INFO [2023-11-13T20:15:31.575Z]: {"prompt":"generate .gitignore for my project"}
+INFO [2023-11-13T20:15:46.863Z]: question_success
+INFO [2023-11-13T20:15:46.863Z]: {"prompt":"generate .gitignore for my project"}
